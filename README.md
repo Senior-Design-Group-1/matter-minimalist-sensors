@@ -1,0 +1,2 @@
+# Home Automation Sensors
+Though the compatibility issue has mostly been solved by the existing Matter protocol, sensors for home automation remain expensive. The goal of this project is to design minimalist sensors that can be distributed throughout a home non-invasively to collect data and allow for convenient automation. These sensors will perform on par with existing sensors while delivering lower costs.
